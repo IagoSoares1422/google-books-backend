@@ -1,0 +1,8 @@
+C:\Users\minat\source\repos\API\Entidades\bin\Debug\netcoreapp2.1\Entidades.deps.json
+C:\Users\minat\source\repos\API\Entidades\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\minat\source\repos\API\Entidades\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\minat\source\repos\API\Entidades\obj\Debug\netcoreapp2.1\Entidades.csprojAssemblyReference.cache
+C:\Users\minat\source\repos\API\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\minat\source\repos\API\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfo.cs
+C:\Users\minat\source\repos\API\Entidades\obj\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\minat\source\repos\API\Entidades\obj\Debug\netcoreapp2.1\Entidades.pdb

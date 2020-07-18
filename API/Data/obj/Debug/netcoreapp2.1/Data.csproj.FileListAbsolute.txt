@@ -1,0 +1,11 @@
+C:\Users\minat\source\repos\API\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\minat\source\repos\API\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\minat\source\repos\API\Data\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\minat\source\repos\API\Data\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\minat\source\repos\API\Data\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.dll
+C:\Users\minat\source\repos\API\Data\obj\Debug\netcoreapp2.1\Data.pdb
